@@ -17,14 +17,14 @@ Shader "Unlit/NewUnlitShader"
 
             #include "UnityCG.cginc"
 
-            // vertex input data
+            // vertex shader input data
             struct appdata
             {
                 float4 vertex : POSITION;
                 float2 uv : TEXCOORD0;
             };
 
-            // vertex to fragment data
+            // vertex shader to fragment shader data
             struct v2f
             {
                 float2 uv : TEXCOORD0;
@@ -33,9 +33,12 @@ Shader "Unlit/NewUnlitShader"
 
             sampler2D _MainTex;
 
+            // the vertex shader
             v2f vert (appdata v)
             {
                 v2f o;
+                //o.vertex += float4(1, 1, 1, 0);
+                //v.vertex.y = v.vertex.y + 1.0;
                 // transforms the vertex/point from 'object space' to 'homogeneous clipping space'
                 o.vertex = UnityObjectToClipPos(v.vertex);
                 // passthrough the texture coordinate 'uv'
@@ -44,11 +47,11 @@ Shader "Unlit/NewUnlitShader"
                 return o;
             }
 
+            // the fragment shader
             fixed4 frag (v2f i) : SV_Target
             {
                 // sample a color from the texture at coordinates 'uv'
                 fixed4 col = tex2D(_MainTex, i.uv);
-
                 return col;
             }
             ENDCG

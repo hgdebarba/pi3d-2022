@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: NewLitDeformationGraphMaterial
+  m_Name: NewLitDeformationMaterial
   m_Shader: {fileID: -6465566751694194690, guid: 5472266ddc392f143b55dda8d4ae0bb8, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -77,6 +77,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
+    - _Float: 9.2
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1

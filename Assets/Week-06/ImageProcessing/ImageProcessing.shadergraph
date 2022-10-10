@@ -167,8 +167,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 185.99996948242188,
-            "y": -188.99998474121095
+            "x": 1.9999998807907105,
+            "y": -523.0
         },
         "m_Blocks": [
             {
@@ -184,8 +184,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 144.00009155273438,
-            "y": 1.9999734163284302
+            "x": 114.00003814697266,
+            "y": -235.00006103515626
         },
         "m_Blocks": [
             {
@@ -225,10 +225,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -453.0,
-            "y": 279.0,
-            "width": 122.99993896484375,
-            "height": 175.99993896484376
+            "x": -580.0000610351563,
+            "y": -81.99999237060547,
+            "width": 123.00003051757813,
+            "height": 176.0
         }
     },
     "m_Slots": [
@@ -272,10 +272,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -795.0,
-            "y": -639.0,
-            "width": 208.0,
-            "height": 313.0
+            "x": -977.9998168945313,
+            "y": -547.9999389648438,
+            "width": 207.99993896484376,
+            "height": 312.99993896484377
         }
     },
     "m_Slots": [
@@ -408,10 +408,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -941.0,
-            "y": 36.99997329711914,
-            "width": 183.0,
-            "height": 101.00001525878906
+            "x": -1323.999755859375,
+            "y": -98.99994659423828,
+            "width": 182.9998779296875,
+            "height": 100.99991607666016
         }
     },
     "m_Slots": [
@@ -562,10 +562,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -729.9999389648438,
-            "y": 37.000057220458987,
-            "width": 208.0,
-            "height": 349.9999694824219
+            "x": -1032.999755859375,
+            "y": -98.99994659423828,
+            "width": 207.9998779296875,
+            "height": 349.99993896484377
         }
     },
     "m_Slots": [
@@ -734,27 +734,27 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -260.0000305175781,
-            "y": -138.0,
-            "width": 207.99996948242188,
+            "x": -420.0000305175781,
+            "y": -257.0,
+            "width": 208.00001525878907,
             "height": 350.0
         }
     },
     "m_Slots": [
         {
-            "m_Id": "bf6faab143ca4008a6a0bb73f455ac6e"
+            "m_Id": "c7e0048f1b79487f9d36626b90420516"
         },
         {
             "m_Id": "2a7d48472db442799063b75f55102284"
+        },
+        {
+            "m_Id": "bf6faab143ca4008a6a0bb73f455ac6e"
         },
         {
             "m_Id": "2785bcfaf8174c75b68b956df71412de"
         },
         {
             "m_Id": "850ec87205b742a88857582be8798085"
-        },
-        {
-            "m_Id": "c7e0048f1b79487f9d36626b90420516"
         }
     ],
     "synonyms": [
@@ -770,7 +770,7 @@
     "m_SourceType": 1,
     "m_FunctionName": "Filter",
     "m_FunctionSource": "f9386be65ce6ced4e84bb61156a63a0d",
-    "m_FunctionBody": "    float4 totalColor = float4(0, 0, 0, 0);\r\nfloat4 tempColor = float4(0,0,0,0);\nfloat total = 0;\n    for (int y = -1; y < 1; y++) {\r\n        for (int x = -1; x < 1; x++) {\r\n            float2 offset = float2(x, y) / inSize;\r\n            tempColor = tex2D(inTexture, inUV + offset);\r\n            tempColor *= inKernel[x+1][y+1];\n            totalColor += tempColor;\r\n            total+=inKernel[x+1][y+1];\n        }\r\n    } \r\n    outColor = totalColor / total;"
+    "m_FunctionBody": "float4 totalColor = float4(0, 0, 0, 0);\r\nfloat total = 0;\n\nfor (int y = -1; y < 2; y++) {\r\n    for (int x = -1; x < 2; x++) {\r\n        float2 offset = float2(x, y) / inSize;\r\n        float4 tempColor = tex2D(inTexture, inUV + offset);\r\n        tempColor *= inKernel[y+1][x+1];\n        totalColor += tempColor;\r\n        total+=inKernel[y+1][x+1];\n    }\r\n} \r\n\nif (total < 0.0001){\n    total = 1;\n} \noutColor = totalColor / 9;"
 }
 
 {
@@ -1188,10 +1188,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1158.90673828125,
-            "y": -31.938400268554689,
-            "width": 0.0,
-            "height": 0.0
+            "x": -1552.999755859375,
+            "y": -158.99998474121095,
+            "width": 138.9998779296875,
+            "height": 33.999977111816409
         }
     },
     "m_Slots": [

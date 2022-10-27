@@ -344,7 +344,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25cb1ee0e0600fc439929256f643ecf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  angle: 130
+  angle: 150
   degreesPerSecond: 20
   circularInterpExample: {fileID: 127851851}
   linearInterpExample: {fileID: 1988514054}

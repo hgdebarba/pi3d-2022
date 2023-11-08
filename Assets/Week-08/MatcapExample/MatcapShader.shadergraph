@@ -453,10 +453,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1451.0,
-            "y": 219.99998474121095,
-            "width": 208.0,
-            "height": 315.0
+            "x": -1451.3333740234375,
+            "y": 219.99996948242188,
+            "width": 209.3333740234375,
+            "height": 318.6666564941406
         }
     },
     "m_Slots": [
@@ -609,7 +609,7 @@
         "m_SerializableColors": []
     },
     "m_TextureType": 0,
-    "m_NormalMapSpace": 0,
+    "m_NormalMapSpace": 1,
     "m_EnableGlobalMipBias": true
 }
 

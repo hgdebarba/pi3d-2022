@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6388e297-36e3-479c-adf5-e5dc7e1772fb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-01.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-01.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshGeneration.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshGeneration.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshGeneration.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshGeneration.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshGenerator.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshGenerator.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/MeshGeneration/MeshMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadGenerator.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadGenerator.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadMesh.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadMesh.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadMesh.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadMesh.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadStandardMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadStandardMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadStandardMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-02/QuadGeneration/QuadStandardMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Asteroid.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Asteroid.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Asteroid.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Asteroid.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/AsteroidController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/AsteroidController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/AsteroidController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/AsteroidController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Asteroids.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Asteroids.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Asteroids.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Asteroids.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/AsteroidsGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/AsteroidsGame.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/AsteroidsGame.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/AsteroidsGame.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Projectile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Projectile.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Projectile.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/Projectile.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/ProjectileController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/ProjectileController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/ProjectileController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/ProjectileController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/ShipController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/ShipController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/ShipController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/ShipController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/flatMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/flatMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/flatMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/flatMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/triangle.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/triangle.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/triangle.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AsteroidsGame/triangle.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/AxisInputCorrection.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/AxisInputCorrection.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/AxisInputCorrection.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/AxisInputCorrection.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/CircleMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/CircleMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/CircleMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/CircleMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/CorrectAxisInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/CorrectAxisInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/CorrectAxisInput.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/CorrectAxisInput.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/SquareMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/SquareMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/SquareMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/AxisInputCorrection/SquareMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/Minimal1PPController.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/Minimal1PPController.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/Minimal1PPController/1PPCamera.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/Minimal1PPController/1PPCamera.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/Minimal1PPController/1PPCamera.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/Minimal1PPController/1PPCamera.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/Minimal1PPController/Minimal1PPController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/Minimal1PPController/Minimal1PPController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/Minimal1PPController/Minimal1PPController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/Minimal1PPController/Minimal1PPController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainGeneration.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainGeneration.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainGeneration.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainGeneration.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainGenerator.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainGenerator.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-03/TerrainGeneration/TerrainMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-04.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-04.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/PoissonDiscSampling.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/PoissonDiscSampling.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/PoissonDiscSampling.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/PoissonDiscSampling.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/ProceduralPlacement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/ProceduralPlacement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/ProceduralPlacement.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/ProceduralPlacement.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/ProceduralPlacement.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/ProceduralPlacement.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/ProceduralPlacement.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/ProceduralPlacement.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/UglyTree.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/UglyTree.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/UglyTree.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-04/ProceduralPlacement/UglyTree.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Assignment2.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Assignment2.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrain.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrain.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrain.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrain.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrainMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrainMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrainMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrainMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrainShader.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrainShader.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrainShader.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Assignment2/AssignmentTerrainShader.shadergraph.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Assignment2/TerrainPlaneGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Assignment2/TerrainPlaneGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Assignment2/TerrainPlaneGenerator.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Assignment2/TerrainPlaneGenerator.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/HLSL-Shaders.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/HLSL-Shaders.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/HLSL-Shaders.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/HLSL-Shaders.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewCelMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewCelMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewCelMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewCelMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewCelShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewCelShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewCelShader.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewCelShader.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDeformationMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDeformationMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDeformationMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDeformationMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDeformationShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDeformationShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDeformationShader.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDeformationShader.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDiffuseMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDiffuseMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDiffuseMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDiffuseMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDiffuseShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDiffuseShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDiffuseShader.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewDiffuseShader.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewSurfaceMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewSurfaceMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewSurfaceMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewSurfaceMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewSurfaceShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewSurfaceShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewSurfaceShader.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewSurfaceShader.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewUnlitMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewUnlitMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewUnlitMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewUnlitMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewUnlitShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewUnlitShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewUnlitShader.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/HLSL-Shaders/NewUnlitShader.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitDeformationGraph.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitDeformationGraph.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitDeformationGraph.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitDeformationGraph.shadergraph.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitDeformationMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitDeformationMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitDeformationMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitDeformationMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitPerlinTextureGraph.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitPerlinTextureGraph.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitPerlinTextureGraph.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitPerlinTextureGraph.shadergraph.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitPerlinTextureMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitPerlinTextureMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitPerlinTextureMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/NewLitPerlinTextureMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/Shader-Graph.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/Shader-Graph.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/Shader-Graph.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-05/Shader-Graph/Shader-Graph.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.shadergraph.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ExerciseNormalDeform/NormalDeform.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/AAU.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/AAU.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.shadergraph.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/ImageProcessing.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/New Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/New Material.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-06/ImageProcessing/New Material.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/EarthMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/EarthMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/EarthMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/EarthMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/MoonMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/MoonMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/MoonMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/MoonMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/PlanetShader.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/PlanetShader.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/PlanetShader.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/PlanetShader.shadergraph.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/Planets.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/Planets.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/Planets.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/Planets.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/PlanetsDebugView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/PlanetsDebugView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/PlanetsDebugView.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/PlanetsDebugView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/RotateAround.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/RotateAround.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/RotateAround.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/RotateAround.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/SunMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/SunMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-07/SunMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-07/SunMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/MatcapExample.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/MatcapExample.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapShader.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapShader.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapShader.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/MatcapShader.shadergraph.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/chrome.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/MatcapExample/chrome.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/Matrix2DExample.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/Matrix2DExample.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/Matrix2DExample/Transformations2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/Matrix2DExample/Transformations2D.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/Matrix2DExample/Transformations2D.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/Matrix2DExample/Transformations2D.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/Matrix2DExample/Transformations2D.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/Matrix2DExample/Transformations2D.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/Matrix2DExample/Transformations2D.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/Matrix2DExample/Transformations2D.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/Matrix3DExercise.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/Matrix3DExercise.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/Matrix3DExercise/TransformMatrix.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/Matrix3DExercise/TransformMatrix.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/Matrix3DExercise/TransformMatrix.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/Matrix3DExercise/TransformMatrix.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/Matrix3DExercise/TransformMatrix.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/Matrix3DExercise/TransformMatrix.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/Matrix3DExercise/TransformMatrix.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/Matrix3DExercise/TransformMatrix.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/QuaternionVsEulerActivity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/QuaternionVsEulerActivity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/QuaternionVsEulerActivity/QuaternionVsEuler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/QuaternionVsEulerActivity/QuaternionVsEuler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/QuaternionVsEulerActivity/QuaternionVsEuler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/QuaternionVsEulerActivity/QuaternionVsEuler.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/QuaternionVsEulerActivity/QuaternionVsEuler.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/QuaternionVsEulerActivity/QuaternionVsEuler.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/QuaternionVsEulerActivity/QuaternionVsEuler.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/QuaternionVsEulerActivity/QuaternionVsEuler.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/SLERPExample.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/SLERPExample.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/SLERPExample/InterpolationExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/SLERPExample/InterpolationExample.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/SLERPExample/InterpolationExample.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/SLERPExample/InterpolationExample.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/SLERPExample/InterpolationExample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/SLERPExample/InterpolationExample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/SLERPExample/InterpolationExample.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/SLERPExample/InterpolationExample.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/TransparentGreen.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/TransparentGreen.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/TransparentGreen.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/TransparentGreen.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/TransparentRed.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/TransparentRed.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-08/TransparentRed.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-08/TransparentRed.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/Door.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/Door.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/Door.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/Door.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/DoorOpen.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/DoorOpen.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/DoorOpen.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/DoorOpen.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/PinNumber.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/PinNumber.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/PinNumber.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/PinNumber.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/PinNumber.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/PinNumber.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/PinNumber.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Animations/PinNumber.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Cube.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Cube.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Cube.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Cube.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Door.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Door.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Door.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Door.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Floor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Floor.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Floor.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/PinCodeScreen.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/PinCodeScreen.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/PinCodeScreen.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/PinCodeScreen.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/PinNumber.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/PinNumber.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/PinNumber.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/PinNumber.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Wall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Wall.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Wall.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Materials/Wall.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scenes/Main.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scenes/Main.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/CameraManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/CameraManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/CameraManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/CameraManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/CameraMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/CameraMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/CameraMovement.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/CameraMovement.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/DoorManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/DoorManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/DoorManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/DoorManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/LayerTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/LayerTrigger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/LayerTrigger.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/LayerTrigger.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/LightBulbTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/LightBulbTrigger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/LightBulbTrigger.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/LightBulbTrigger.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PinCodeManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PinCodeManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PinCodeManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PinCodeManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PinNumber.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PinNumber.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PinNumber.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PinNumber.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PlayerController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/PlayerController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/RayCastManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/RayCastManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/RayCastManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/RayCastManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/UIManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/UIManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/UIManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/UIManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/Utilities.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/Utilities.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/Utilities.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/Scripts/Utilities.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/cube_move.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/cube_move.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/cube_move.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Week-11/UI-workshop/cube_move.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2Xt42erjIdCqLE81sQwbb21gmRe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\henrique\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\henrique\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\henrique\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.31f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\develop\unity\pi3d-2022 -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\develop\unity\pi3d-2022" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.31f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\develop\unity\pi3d-2022 -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\develop\unity\pi3d-2022" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6388e297-36e3-479c-adf5-e5dc7e1772fb" name="Changes" comment="" />
+      <created>1699434842575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699434842575</updated>
+      <workItem from="1699434844209" duration="148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
